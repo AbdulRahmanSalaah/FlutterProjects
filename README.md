@@ -22,15 +22,13 @@ Projects Included:
 
 
 
-![Screenshot_1720110795](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/f3686718-a46b-467a-82a7-4a12d397fb37)
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1)
 
 
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢ (3)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098)
 
 
-![Screenshot_1720110799](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/8a1f7942-249f-4536-857b-9796f246151b)
-
-
-![Screenshot_1720110829](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/197feee0-9901-4a2a-a4e8-4612032722d0)
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٣ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/30328f02-3361-48d6-88d7-e88faff0c917)
 
 
 
@@ -40,18 +38,23 @@ Projects Included:
 3- Expenses Tracker: An app to track expenses with a single page displaying a chart of expenses and cards for each expense. The app bar includes an add button that opens a bottom sheet to add new expenses with fields for title, amount, category, and date. The app supports both light mode and dark mode based on the system settings.
 
 
-![Screenshot_1720110911](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/9d875336-9305-4c19-81da-64d32f74dfca)
+
+
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٣](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/7dd95ebd-23ee-48c6-b6b6-5504dda2f44d)
+
+
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٠](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/7254c515-f865-4322-885c-f2973be8cf12)
+
+
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١١](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/044bd27b-f7e1-4bda-89d6-d212d8488407)
 
 
 
-![Screenshot_1720110950](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5fb14016-63e8-4156-8699-47e084298379)
-
-
-![Screenshot_1720110955](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/9f82b9c9-64ad-464d-a4d9-9f584137e486)
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١١ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/df6ae8b7-4c75-4701-ae51-5eea36db67b3)
 
 
 
-![Screenshot_1720110962](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/c3bfb01a-777b-4c56-bc04-72f14f8c9d77)
+![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/51b3adfd-e1c6-4bd6-b3bc-15d52721ed67)
 
 
-![Screenshot_1720110965](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/704d7214-6639-44ae-9c23-460179299900)
+
