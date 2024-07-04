@@ -16,3 +16,6 @@ Projects Included:
 
 
 
+Quiz App: An interactive quiz app where users can test their knowledge on various topics. The app includes multiple-choice questions, instant feedback, and a scoring system.
+
+
