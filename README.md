@@ -9,9 +9,7 @@ Welcome to the Flutter Projects repository! This repository contains a collectio
 
 Projects Included:
 
-1- Dice Roller 
-
-Its a simple App just dice the roller
+1- Dice Roller: A simple app that simulates rolling a dice. Tap the button to roll the dice and get a random result.
 
 
 ![photo_٢٠٢٤-٠٧-٠٤_١٩-٤٠-٣٩](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/f8ef5693-2560-4e8a-ae0e-ad75100df357)
