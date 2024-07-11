@@ -18,6 +18,12 @@ Projects Included:
 
 
 
+
+
+
+
+
+
 2- Quiz App: An interactive quiz app where users can test their knowledge on various topics. The app includes multiple-choice questions, instant feedback, and a scoring system.
 
 
@@ -29,6 +35,14 @@ Projects Included:
 
 
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٣ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/30328f02-3361-48d6-88d7-e88faff0c917)
+
+
+
+
+
+
+
+
 
 
 
@@ -58,12 +72,30 @@ Projects Included:
 
 
 
+
+
+
+
+
+
+
 4- E-commerce App: A simple UI app that displays products. Users can click on a product to view its details on a separate page,
 
 
 ![image](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/9406e14a-1a51-461b-9314-f63f1fa82691)
 
 ![image](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/2ba030be-88aa-465e-b55e-6181c54a212c)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
