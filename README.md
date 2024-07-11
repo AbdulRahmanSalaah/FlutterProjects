@@ -67,6 +67,10 @@ Projects Included:
 
 
 
+5- Meals App: A comprehensive app for exploring meals categorized by types such as quick and easy, Italian, Asian, and more. The home page features a bottom navigation bar with categories and favorites. Selecting a category filters meals accordingly, showing meal cards with options to view details. Each meal detail page includes an image, ingredients, preparation steps, and an option to add the meal to favorites. The app also includes a drawer on the homepage with additional options for meals and filters like gluten-free and vegan. State management is handled using Riverpod, with animations enhancing user interaction throughout the app.
+
+
+![Screenshot_1720724616](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/fab1a6d3-e8cb-4bcb-a617-b812ae962722)
 
 
 
