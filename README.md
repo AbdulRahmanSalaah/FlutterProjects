@@ -61,9 +61,9 @@ Projects Included:
 4- E-commerce App: A simple UI app that displays products. Users can click on a product to view its details on a separate page,
 
 
-![Screenshot_1720523194](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/e4ecb464-b097-4188-a420-c0f544a0ff13)
+![image](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/9406e14a-1a51-461b-9314-f63f1fa82691)
 
-![Screenshot_1720523202](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/a463e36d-c57d-4da1-891e-0a5e3a7c9b9d)
+![image](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/2ba030be-88aa-465e-b55e-6181c54a212c)
 
 
 
