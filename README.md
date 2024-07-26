@@ -138,6 +138,30 @@ via a form with fields for name, quantity, and category. Categories are selected
 ![image](https://github.com/user-attachments/assets/2edd175d-1188-46dd-ab5c-d4344e222dda)
 
 
+7 - Places Visited App: An app for saving data about places visited, including name, image, and location. It offers options to pick the current location or select from a map, and displays added places on the homepage. Users can click on a place to view its details and open the location on a map. The app uses Riverpod for state management and SQFlite for storing data in a local database.
+
+
+
+
+![image](https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d)
+
+
+
+![image](https://github.com/user-attachments/assets/78acdc50-0a1b-4437-8297-349c86858c36)
+
+
+![image](https://github.com/user-attachments/assets/5f775094-668a-45a3-b2d9-b319761566e0)
+
+
+
+![image](https://github.com/user-attachments/assets/bd61942d-a9e8-4374-9b77-66da1b0151e1)
+
+
+
+![image](https://github.com/user-attachments/assets/37e810dd-b527-4ab0-bd6b-3760183e555b)
+
+
+![image](https://github.com/user-attachments/assets/9862089f-969f-4cd9-ba4a-df4e98eb0426)
 
 
 
