@@ -163,6 +163,43 @@ via a form with fields for name, quantity, and category. Categories are selected
 
 ![image](https://github.com/user-attachments/assets/9862089f-969f-4cd9-ba4a-df4e98eb0426)
 
+8 - Chat Application (Chatyy)
+A real-time chat application built using Flutter, and Firebase for authentication and database services. Users can sign up, log in, and engage in one-on-one chats, The app demonstrates Flutter's ability to handle asynchronous data streams and real-time updates.
+
+
+
+![image](https://github.com/user-attachments/assets/6adc3f59-74a8-4567-827e-ec4d48d3b333)
+
+
+
+
+![image](https://github.com/user-attachments/assets/dccf7a22-7378-486c-b1b9-3fcf70f789c5)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/d7f7125a-78b7-4b65-b0ff-a34fb50ed984)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f2d28daf-74a0-451a-ae66-6dd62bee4a58)
+
+
+
+![image](https://github.com/user-attachments/assets/71c7c592-26d1-452f-ac0f-bdaa0cc4db8f)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/858e7511-602e-4012-9525-8ab14dc51650)
+
+
+
 
 
 
