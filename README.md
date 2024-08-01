@@ -204,3 +204,31 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 
 
+9 - BMI App: A Body Mass Index (BMI) calculator with two pages: one for entering user details (height , age , gender and weight ) and another for displaying the result. This app uses GetX for state management, providing a smooth and reactive user experience.
+
+
+
+
+![image](https://github.com/user-attachments/assets/d85a5e63-e235-4552-8d66-a921fe87e5c8)
+
+
+![image](https://github.com/user-attachments/assets/7043fc28-2c25-431f-8323-a8497374baca)
+
+
+![image](https://github.com/user-attachments/assets/31cd0072-5999-4c10-8a82-47333f79efc8)
+
+
+![image](https://github.com/user-attachments/assets/4e8ca1dc-5f46-49fc-b846-85806964861a)
+
+
+
+
+
+
+
+
+
+
+
+
+
