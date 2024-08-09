@@ -223,6 +223,74 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 
 
+10 - The classic Tic Tac Toe game built using Flutter offers a polished user experience with advanced state management and data persistence features. To enhance gameplay, I implemented Hive as the local database, allowing players to view their game history. Additionally, I utilized Flutter Hooks, inspired by React Hooks, and Riverpod to efficiently manage widget lifecycle and state management. The game is also adaptive for landscape view, ensuring a smooth experience on different device orientations.
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/c7f929ea-f282-4d9c-b4c4-5b54169ac043)
+
+
+
+![image](https://github.com/user-attachments/assets/c718f355-1cba-4e86-9f5e-efa56697c0b3)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/e2442acb-46c8-4ffb-998e-debff15f5b59)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4d2b0453-1080-423e-adbe-1436243def46)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b8be4087-dc23-42dd-96e6-10a9329a7147)
+
+
+
+![image](https://github.com/user-attachments/assets/48e4ab58-dda8-48be-82d6-8b2d33c2c4aa)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/ebc92f94-1180-427a-9b4b-852bd2e3ca17)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/afbffafd-9885-4c4a-a387-2456003e9a54)
+
+
+
+![image](https://github.com/user-attachments/assets/76724c53-ebea-460a-8444-4462fa4399bc)
+
+
+
+![image](https://github.com/user-attachments/assets/3d8bb133-bb65-4d1e-beb6-5da900935196)
+
+
+
+![image](https://github.com/user-attachments/assets/c3a4bef9-c49c-4048-8f0b-2d0369d1bf57)
+
+
+
+
+
+
 
 
 
