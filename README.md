@@ -352,6 +352,7 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 
 
+![image](https://github.com/user-attachments/assets/c499f482-790b-411e-9716-025e82ac246c)
 
 
 
