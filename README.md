@@ -365,7 +365,25 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 The app features three main pages:
 
 1-Home Page: Displays a curated selection of books, including the latest releases.
+
+
+
+
+
+
+
+
 2-Search Page: Allows users to search for specific books across the Google Books API.
+
+
+
+
+
+
+
+
+
+
 3-Book Details Page: Provides detailed information about a selected book, including a "You May Also Like" section with recommendations by category. Users can also access a free preview of the book directly in Google Books via a dedicated button.
 
 
