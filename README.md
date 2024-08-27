@@ -360,26 +360,38 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 
 
+12- Bookly is a sophisticated book discovery app built using Flutter, leveraging the BLoC pattern with Cubit for state management. The app is structured following the MVVM architecture, ensuring clean and maintainable code. Dependency injection is handled efficiently with the GetIt package, while navigation between pages is streamlined using an App Router. Bookly fetches data from the Google Books API, providing users with access to a vast library of books.
+
+The app features three main pages:
+
+1-Home Page: Displays a curated selection of books, including the latest releases.
+2-Search Page: Allows users to search for specific books across the Google Books API.
+3-Book Details Page: Provides detailed information about a selected book, including a "You May Also Like" section with recommendations by category. Users can also access a free preview of the book directly in Google Books via a dedicated button.
 
 
 
 
+![image](https://github.com/user-attachments/assets/d4ad178a-df76-4aec-bcae-0faea0fd6fa8)
+
+
+![image](https://github.com/user-attachments/assets/7370428f-adad-4edc-af83-9366d3d8a038)
 
 
 
 
+![image](https://github.com/user-attachments/assets/e953d463-3ecf-4c8f-877f-6d8476c8fd6f)
+
+
+![image](https://github.com/user-attachments/assets/f451f5e7-fa0e-4641-b9d9-b96d9d2a21e9)
 
 
 
 
+![image](https://github.com/user-attachments/assets/358e7d02-b950-4349-9d41-3ace36727dd3)
 
 
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/17e6524e-fdf9-4619-9876-2537457792eb)
 
 
 
