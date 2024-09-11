@@ -346,8 +346,9 @@ Key Technologies and Features:
   * TV Show Season Details: Get details about specific seasons of TV shows.
   * Movie App combines clean architecture with a powerful technology stack to deliver an engaging and efficient user experience.
 
+![image](https://github.com/user-attachments/assets/a3739822-e68e-40de-8e0c-b80c107b3555)
 
-
+  
 
 
 
