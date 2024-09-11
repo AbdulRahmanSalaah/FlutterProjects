@@ -29,11 +29,7 @@ Projects Included:
 
 
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1)
-
-
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢ (3)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098)
-
-
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٣ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/30328f02-3361-48d6-88d7-e88faff0c917)
 
 
