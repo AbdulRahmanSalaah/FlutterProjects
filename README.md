@@ -215,65 +215,22 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 10 - The classic Tic Tac Toe game built using Flutter offers a polished user experience with advanced state management and data persistence features. To enhance gameplay, I implemented Hive as the local database, allowing players to view their game history. Additionally, I utilized Flutter Hooks, inspired by React Hooks, and Riverpod to efficiently manage widget lifecycle and state management. The game is also adaptive for landscape view, ensuring a smooth experience on different device orientations.
 
 
+<img src="https://github.com/user-attachments/assets/c7f929ea-f282-4d9c-b4c4-5b54169ac043" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/c718f355-1cba-4e86-9f5e-efa56697c0b3" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/e2442acb-46c8-4ffb-998e-debff15f5b59" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/4d2b0453-1080-423e-adbe-1436243def46" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/b8be4087-dc23-42dd-96e6-10a9329a7147" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/48e4ab58-dda8-48be-82d6-8b2d33c2c4aa" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/ebc92f94-1180-427a-9b4b-852bd2e3ca17" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/afbffafd-9885-4c4a-a387-2456003e9a54" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/76724c53-ebea-460a-8444-4462fa4399bc" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/3d8bb133-bb65-4d1e-beb6-5da900935196" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/c3a4bef9-c49c-4048-8f0b-2d0369d1bf57" width="278" height="590" />  <br />
+
+ <br />
+ <br />
 
 
-
-
-
-![image](https://github.com/user-attachments/assets/c7f929ea-f282-4d9c-b4c4-5b54169ac043)
-
-
-
-![image](https://github.com/user-attachments/assets/c718f355-1cba-4e86-9f5e-efa56697c0b3)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/e2442acb-46c8-4ffb-998e-debff15f5b59)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/4d2b0453-1080-423e-adbe-1436243def46)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/b8be4087-dc23-42dd-96e6-10a9329a7147)
-
-
-
-![image](https://github.com/user-attachments/assets/48e4ab58-dda8-48be-82d6-8b2d33c2c4aa)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/ebc92f94-1180-427a-9b4b-852bd2e3ca17)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/afbffafd-9885-4c4a-a387-2456003e9a54)
-
-
-
-![image](https://github.com/user-attachments/assets/76724c53-ebea-460a-8444-4462fa4399bc)
-
-
-
-![image](https://github.com/user-attachments/assets/3d8bb133-bb65-4d1e-beb6-5da900935196)
-
-
-
-![image](https://github.com/user-attachments/assets/c3a4bef9-c49c-4048-8f0b-2d0369d1bf57)
 
 
 
@@ -283,7 +240,8 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 11 - Taskaty App is a feature-rich to-do app built using Flutter, designed to help users manage their tasks efficiently. The app offers both light and dark themes, adapting seamlessly to different screen sizes and orientations for a consistent user experience across devices. State management is handled with GetX, ensuring smooth and responsive interactions. Local notifications are implemented to schedule reminders, helping users stay on top of their tasks. For data persistence, I used SQFlite to store tasks locally. Additionally, the app features an animated splash screen, providing a visually engaging introduction to the user.
 
-
+<img src="" width="278" height="590" /> 
+<img src="" width="278" height="590" /> 
 
 ![image](https://github.com/user-attachments/assets/915ee3fc-b67a-4fe0-a4d7-376f6640e3ce)
 
