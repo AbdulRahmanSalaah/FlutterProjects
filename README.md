@@ -150,26 +150,28 @@ via a form with fields for name, quantity, and category. Categories are selected
 
 
 
-
-![image](https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d)
-
-
-
-![image](https://github.com/user-attachments/assets/78acdc50-0a1b-4437-8297-349c86858c36)
-
-
-![image](https://github.com/user-attachments/assets/5f775094-668a-45a3-b2d9-b319761566e0)
+<img src="https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/78acdc50-0a1b-4437-8297-349c86858c36" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/5f775094-668a-45a3-b2d9-b319761566e0" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/bd61942d-a9e8-4374-9b77-66da1b0151e1" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/37e810dd-b527-4ab0-bd6b-3760183e555b" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/9862089f-969f-4cd9-ba4a-df4e98eb0426" width="290" height="590" />  <br />
 
 
-
-![image](https://github.com/user-attachments/assets/bd61942d-a9e8-4374-9b77-66da1b0151e1)
+ <br />
+ <br />
 
 
 
-![image](https://github.com/user-attachments/assets/37e810dd-b527-4ab0-bd6b-3760183e555b)
 
 
-![image](https://github.com/user-attachments/assets/9862089f-969f-4cd9-ba4a-df4e98eb0426)
+
+
+
+
+
+
+
 
 8 - Chat Application (Chatyy)
 A real-time chat application built using Flutter, and Firebase for authentication and database services. Users can sign up, log in, and engage in one-on-one chats, The app demonstrates Flutter's ability to handle asynchronous data streams and real-time updates.
