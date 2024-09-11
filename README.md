@@ -11,8 +11,8 @@ Projects Included:
 
 1- Dice Roller: A simple app that simulates rolling a dice. Tap the button to roll the dice and get a random result.
 
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/e2d589af-3411-4ede-979e-2c0cd5eee05c" width="300" height="600" />
 
-![photo_2024-07-04_21-27-51](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/e2d589af-3411-4ede-979e-2c0cd5eee05c)
 
 
 
