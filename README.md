@@ -296,11 +296,11 @@ The app features three main pages:
 3-Book Details Page: Provides detailed information about a selected book, including a "You May Also Like" section with recommendations by category. Users can also access a free preview of the book directly in Google Books via a dedicated button.
 
 
-<img src="https://github.com/user-attachments/assets/d4ad178a-df76-4aec-bcae-0faea0fd6fa8" width="278" height="590" /> 
-<img src="https://github.com/user-attachments/assets/7370428f-adad-4edc-af83-9366d3d8a038" width="278" height="590" /> 
-<img src="https://github.com/user-attachments/assets/e953d463-3ecf-4c8f-877f-6d8476c8fd6f" width="278" height="590" /> 
-<img src="https://github.com/user-attachments/assets/f451f5e7-fa0e-4641-b9d9-b96d9d2a21e9" width="278" height="590" /> 
-<img src="https://github.com/user-attachments/assets/358e7d02-b950-4349-9d41-3ace36727dd3" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/d4ad178a-df76-4aec-bcae-0faea0fd6fa8" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/7370428f-adad-4edc-af83-9366d3d8a038" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/e953d463-3ecf-4c8f-877f-6d8476c8fd6f" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/f451f5e7-fa0e-4641-b9d9-b96d9d2a21e9" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/358e7d02-b950-4349-9d41-3ace36727dd3" width="278" height="590" /> &ensp;
 <img src="https://github.com/user-attachments/assets/17e6524e-fdf9-4619-9876-2537457792eb" width="278" height="590" />  <br />
  <br />
  <br />
