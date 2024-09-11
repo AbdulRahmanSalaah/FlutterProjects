@@ -26,8 +26,8 @@ Projects Included:
 
 2- Quiz App: An interactive quiz app where users can test their knowledge on various topics. The app includes multiple-choice questions, instant feedback, and a scoring system.
 
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1" width="250" height="400" />
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098" width="250" height="400" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1" width="300" height="600" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098" width="300" height="600" />
 
 
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٢ (2)](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1)
