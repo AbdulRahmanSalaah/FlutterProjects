@@ -48,6 +48,14 @@ Projects Included:
 3- Expenses Tracker: An app to track expenses with a single page displaying a chart of expenses and cards for each expense. The app bar includes an add button that opens a bottom sheet to add new expenses with fields for title, amount, category, and date. The app supports both light mode and dark mode based on the system settings.
 
 
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/7dd95ebd-23ee-48c6-b6b6-5504dda2f44d" width="290" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/7254c515-f865-4322-885c-f2973be8cf12" width="290" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/044bd27b-f7e1-4bda-89d6-d212d8488407" width="290" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/df6ae8b7-4c75-4701-ae51-5eea36db67b3" width="290" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/51b3adfd-e1c6-4bd6-b3bc-15d52721ed67" width="290" height="590" />
+
+
+
 
 
 ![photo_٢٠٢٤-٠٧-٠٤_٢١-٢٩-١٣](https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/7dd95ebd-23ee-48c6-b6b6-5504dda2f44d)
