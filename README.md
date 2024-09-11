@@ -150,7 +150,7 @@ via a form with fields for name, quantity, and category. Categories are selected
 
 
 
-<img src="https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d" width="290" height="590" /> &emsp;  
 <img src="https://github.com/user-attachments/assets/78acdc50-0a1b-4437-8297-349c86858c36" width="290" height="590" /> 
 <img src="https://github.com/user-attachments/assets/5f775094-668a-45a3-b2d9-b319761566e0" width="290" height="590" /> 
 <img src="https://github.com/user-attachments/assets/bd61942d-a9e8-4374-9b77-66da1b0151e1" width="290" height="590" /> 
