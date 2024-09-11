@@ -150,7 +150,7 @@ via a form with fields for name, quantity, and category. Categories are selected
 
 
 
-<img src="https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d" width="290" height="590" /> &emsp;  
+<img src="https://github.com/user-attachments/assets/9608d042-f23c-4343-bf53-c80e83a2f40d" width="290" height="590" /> 
 <img src="https://github.com/user-attachments/assets/78acdc50-0a1b-4437-8297-349c86858c36" width="290" height="590" /> 
 <img src="https://github.com/user-attachments/assets/5f775094-668a-45a3-b2d9-b319761566e0" width="290" height="590" /> 
 <img src="https://github.com/user-attachments/assets/bd61942d-a9e8-4374-9b77-66da1b0151e1" width="290" height="590" /> 
@@ -176,41 +176,18 @@ via a form with fields for name, quantity, and category. Categories are selected
 8 - Chat Application (Chatyy)
 A real-time chat application built using Flutter, and Firebase for authentication and database services. Users can sign up, log in, and engage in one-on-one chats, The app demonstrates Flutter's ability to handle asynchronous data streams and real-time updates.
 
+<img src="https://github.com/user-attachments/assets/6adc3f59-74a8-4567-827e-ec4d48d3b333" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/dccf7a22-7378-486c-b1b9-3fcf70f789c5" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/d7f7125a-78b7-4b65-b0ff-a34fb50ed984" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/f2d28daf-74a0-451a-ae66-6dd62bee4a58" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/71c7c592-26d1-452f-ac0f-bdaa0cc4db8f" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/858e7511-602e-4012-9525-8ab14dc51650" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/5253932c-f7ed-4d8d-b23d-4edeb5bcdc51" width="290" height="590" />  <br />
 
+ <br />
 
-![image](https://github.com/user-attachments/assets/6adc3f59-74a8-4567-827e-ec4d48d3b333)
+ <br />
 
-
-
-
-![image](https://github.com/user-attachments/assets/dccf7a22-7378-486c-b1b9-3fcf70f789c5)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/d7f7125a-78b7-4b65-b0ff-a34fb50ed984)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/f2d28daf-74a0-451a-ae66-6dd62bee4a58)
-
-
-
-![image](https://github.com/user-attachments/assets/71c7c592-26d1-452f-ac0f-bdaa0cc4db8f)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/858e7511-602e-4012-9525-8ab14dc51650)
-
-
-
-![image](https://github.com/user-attachments/assets/5253932c-f7ed-4d8d-b23d-4edeb5bcdc51)
 
 
 
