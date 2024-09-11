@@ -244,7 +244,7 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 11 - Taskaty App is a feature-rich to-do app built using Flutter, designed to help users manage their tasks efficiently. The app offers both light and dark themes, adapting seamlessly to different screen sizes and orientations for a consistent user experience across devices. State management is handled with GetX, ensuring smooth and responsive interactions. Local notifications are implemented to schedule reminders, helping users stay on top of their tasks. For data persistence, I used SQFlite to store tasks locally. Additionally, the app features an animated splash screen, providing a visually engaging introduction to the user.
 
-<img src="https://github.com/user-attachments/assets/915ee3fc-b67a-4fe0-a4d7-376f6640e3ce" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/915ee3fc-b67a-4fe0-a4d7-376f6640e3ce" /> 
 <img src="https://github.com/user-attachments/assets/eee509c2-88ad-46bb-85d9-86c7ca9196b0" width="278" height="590" /> 
 <img src="https://github.com/user-attachments/assets/b00eba89-e7f0-4a56-a59d-5d80d70a1015" width="278" height="590" /> 
 <img src="https://github.com/user-attachments/assets/1cc78586-810a-4cfa-9313-04544bcded83" width="278" height="590" /> 
