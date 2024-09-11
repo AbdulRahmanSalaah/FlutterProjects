@@ -244,66 +244,23 @@ A real-time chat application built using Flutter, and Firebase for authenticatio
 
 11 - Taskaty App is a feature-rich to-do app built using Flutter, designed to help users manage their tasks efficiently. The app offers both light and dark themes, adapting seamlessly to different screen sizes and orientations for a consistent user experience across devices. State management is handled with GetX, ensuring smooth and responsive interactions. Local notifications are implemented to schedule reminders, helping users stay on top of their tasks. For data persistence, I used SQFlite to store tasks locally. Additionally, the app features an animated splash screen, providing a visually engaging introduction to the user.
 
-<img src="" width="278" height="590" /> 
-<img src="" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/915ee3fc-b67a-4fe0-a4d7-376f6640e3ce" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/eee509c2-88ad-46bb-85d9-86c7ca9196b0" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/b00eba89-e7f0-4a56-a59d-5d80d70a1015" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/1cc78586-810a-4cfa-9313-04544bcded83" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/abe11f7d-f76f-4667-b327-7302a8dfaa09" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/81b7cb8e-180a-43e0-acf6-306d676cc47d" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/8e1ffb74-9b3a-43c9-a280-243b4fa7d4bd" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/c9f49984-c89c-4b89-851b-4f8ff8d2ddfe" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/781a2a01-b2fb-46ef-a39c-f55052ef3d64" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/cb3b4436-4ef1-4907-8c6e-5c1bfc5ebf0d" width="278" height="590" /> 
+<img src="https://github.com/user-attachments/assets/e5ae4d70-bc91-4b3e-a255-66f16498950d" width="278" height="590" /> 
 
-![image](https://github.com/user-attachments/assets/915ee3fc-b67a-4fe0-a4d7-376f6640e3ce)
-
-![image](https://github.com/user-attachments/assets/eee509c2-88ad-46bb-85d9-86c7ca9196b0)
-
-
-
-![image](https://github.com/user-attachments/assets/b00eba89-e7f0-4a56-a59d-5d80d70a1015)
-
-
-
-
-![image](https://github.com/user-attachments/assets/1cc78586-810a-4cfa-9313-04544bcded83)
+<img src="https://github.com/user-attachments/assets/c499f482-790b-411e-9716-025e82ac246c" width="590" height="278" />  <br />
 
 
-
-
-
-
-![image](https://github.com/user-attachments/assets/abe11f7d-f76f-4667-b327-7302a8dfaa09)
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/81b7cb8e-180a-43e0-acf6-306d676cc47d)
-
-
-
-
-![image](https://github.com/user-attachments/assets/8e1ffb74-9b3a-43c9-a280-243b4fa7d4bd)
-
-
-
-
-![image](https://github.com/user-attachments/assets/c9f49984-c89c-4b89-851b-4f8ff8d2ddfe)
-
-
-
-
-![image](https://github.com/user-attachments/assets/781a2a01-b2fb-46ef-a39c-f55052ef3d64)
-
-
-
-
-![image](https://github.com/user-attachments/assets/cb3b4436-4ef1-4907-8c6e-5c1bfc5ebf0d)
-
-
-
-
-![image](https://github.com/user-attachments/assets/e5ae4d70-bc91-4b3e-a255-66f16498950d)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/c499f482-790b-411e-9716-025e82ac246c)
+ <br />
+ <br />
 
 
 
