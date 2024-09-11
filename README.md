@@ -131,18 +131,19 @@ Projects Included:
 6- Grocery List App: An app for managing grocery items where users can add, view, and delete items. The app fetches data from a Firebase database to display the list of grocery items. Users can add new items 
 via a form with fields for name, quantity, and category. Categories are selected from a dropdown menu populated dynamically from a local data source. Validation ensures correct input, and items can be deleted with swipe gestures. State management and async operations are managed using setState and Future methods for handling HTTP requests.
 
+<img src="https://github.com/user-attachments/assets/b8167f53-c677-4d77-a753-3fbdc87e48a7" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/172bb96a-47de-4fbd-b79e-c596a77ed42f" width="290" height="590" /> 
+<img src="https://github.com/user-attachments/assets/2edd175d-1188-46dd-ab5c-d4344e222dda" width="290" height="590" />   <br />
 
-![image](https://github.com/user-attachments/assets/b8167f53-c677-4d77-a753-3fbdc87e48a7)
+ <br />
 
-
-
-
-![image](https://github.com/user-attachments/assets/172bb96a-47de-4fbd-b79e-c596a77ed42f)
-
-
+ <br />
 
 
-![image](https://github.com/user-attachments/assets/2edd175d-1188-46dd-ab5c-d4344e222dda)
+
+
+
+
 
 
 7 - Places Visited App: An app for saving data about places visited, including name, image, and location. It offers options to pick the current location or select from a map, and displays added places on the homepage. Users can click on a place to view its details and open the location on a map. The app uses Riverpod for state management and SQFlite for storing data in a local database.
