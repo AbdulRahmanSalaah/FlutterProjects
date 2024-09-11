@@ -349,10 +349,15 @@ Key Technologies and Features:
 
   
 
-https://github.com/user-attachments/assets/7e1de4f0-3077-432d-84db-4b12572233fd
+
+
+https://github.com/user-attachments/assets/d653816e-c177-40eb-bd99-4118e1b54c2a
 
 
 
+
+
+<img src="https://github.com/user-attachments/assets/54f427ed-4c0e-4a08-af77-7c45214fc311" width="278" height="590" /> &ensp;
 
 
 
