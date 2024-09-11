@@ -365,8 +365,7 @@ https://github.com/user-attachments/assets/d653816e-c177-40eb-bd99-4118e1b54c2a 
 
 
 
-<img src="![Screenshot_1726082763](https://github.com/user-attachments/assets/2af3323d-af30-4b16-a021-b0c8ff2fe3bf)
-" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/2af3323d-af30-4b16-a021-b0c8ff2fe3bf" width="278" height="590" /> &ensp;
 <img src="" width="278" height="590" /> &ensp;
 <img src="" width="278" height="590" /> &ensp;
 <img src="" width="278" height="590" /> &ensp;
