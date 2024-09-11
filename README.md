@@ -11,7 +11,7 @@ Projects Included:
 
 1- Dice Roller: A simple app that simulates rolling a dice. Tap the button to roll the dice and get a random result.
 
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/e2d589af-3411-4ede-979e-2c0cd5eee05c" width="310" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/e2d589af-3411-4ede-979e-2c0cd5eee05c" width="300" height="590" />
 
 
 
@@ -26,9 +26,9 @@ Projects Included:
 
 2- Quiz App: An interactive quiz app where users can test their knowledge on various topics. The app includes multiple-choice questions, instant feedback, and a scoring system.
 
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1" width="300" height="600" />
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098" width="300" height="600" />
-<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/30328f02-3361-48d6-88d7-e88faff0c917" width="300" height="600" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/011f8efc-3d32-4a6d-90f8-d8876afe57d1" width="300" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/5dd8c438-8862-4449-9bb9-938df8c1a098" width="300" height="590" />
+<img src="https://github.com/AbdulRahmanSalaah/FlutterProjects/assets/117433975/30328f02-3361-48d6-88d7-e88faff0c917" width="300" height="590" />
 
 
 
