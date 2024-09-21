@@ -106,7 +106,7 @@ class NotifyHelper {
       androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
       uiLocalNotificationDateInterpretation:
           UILocalNotificationDateInterpretation.absoluteTime,
-      matchDateTimeComponents: DateTimeComponents.time,
+      matchDateTimeComponents: DateTimeComponents.dateAndTime,
       payload: '${task.title}|${task.note}|${task.startTime}|',
     );
     return 0;
