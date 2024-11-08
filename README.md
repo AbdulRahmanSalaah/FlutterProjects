@@ -374,4 +374,37 @@ https://github.com/user-attachments/assets/d653816e-c177-40eb-bd99-4118e1b54c2a
  <br />
 
 
+14 - Docdoc is an intuitive medical appointment management app designed to make it easy for users to schedule and organize their healthcare appointments efficiently. Docdoc provides a seamless experience, 
+     combining user-friendly design with robust technology to enhance medical scheduling.
+
+Key Features & Technologies
+ * Clean Architecture: Built with clean architecture principles, Docdoc ensures high modularity, scalability, and maintainability. This design structure allows for clear separation of concerns, making the app 
+  flexible and easy to extend.
+
+ * State Management: Using the BLoC (Business Logic Component) pattern, Docdoc efficiently manages the app’s state and separates business logic from the UI, enhancing the app's responsiveness and reliability.
+
+ * API Integration: Docdoc connects to https://vcare.integration25.com/api/, providing users with direct access to an extensive scheduling system that makes appointment management easy and accessible.
+
+ * Packages & Libraries: Various Flutter packages enhance the app’s capabilities, including date pickers for selecting appointment times, networking libraries for smooth API communication, and push 
+    notifications for appointment reminders.
+
+ * Shared Preferences: Stores user tokens and essential information, such as names, ensuring a personalized and consistent experience each time the app is opened.
+
+ * Flutter Flavors: With Flutter flavors, Docdoc can be configured to run in multiple environments (development, testing, production), making development and testing more efficient.
+
+ * Firebase Distribution: Enables beta testing and feedback gathering by distributing pre-release versions to early adopters and testers.
+
+ * Continuous Integration & Continuous Deployment (CI/CD): CI/CD pipelines automate testing and deployment, ensuring that each release is thoroughly vetted and delivered seamlessly to users.
+
+  Docdoc combines these advanced technologies with a clean and structured approach to create a powerful, reliable, and user-centric solution for medical appointment scheduling.
+
+
+
+<img src="https://github.com/user-attachments/assets/fa7ec53e-b475-49a8-8ce6-0d7f97052a4c" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/3d84f470-4ebc-4bbb-a063-e005eb8af6ff" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/9eb5ce98-6a66-4af7-800f-4db46d4fae8a" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/a692fee3-e9c9-442a-ae5d-c623e61aaa04" width="278" height="590" /> &ensp;
+<img src="https://github.com/user-attachments/assets/9e934337-4432-4ef4-88ac-8c96e2c98278" width="278" height="590" /> &ensp;
+
+
 
