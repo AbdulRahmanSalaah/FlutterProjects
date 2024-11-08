@@ -19,7 +19,7 @@ class GetStartedButton extends StatelessWidget {
         ),
       ),
       onPressed: () {
-        GoRouter.of(context).push(AppRoutes.loginRoute);
+        GoRouter.of(context).pushReplacement(AppRoutes.loginRoute);
       },
       child: Text(
         'Get Started',

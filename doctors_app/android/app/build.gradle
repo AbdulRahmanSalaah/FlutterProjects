@@ -1,5 +1,8 @@
 plugins {
     id "com.android.application"
+    // START: FlutterFire Configuration
+    id 'com.google.gms.google-services'
+    // END: FlutterFire Configuration
     id "kotlin-android"
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id "dev.flutter.flutter-gradle-plugin"
@@ -44,6 +47,19 @@ android {
         versionName = flutterVersionName
     }
 
+    flavorDimensions "default"
+    productFlavors {
+      production {
+          dimension "default"
+          resValue "string", "app_name", "DocDoc Production"
+      }
+      development {
+          dimension "default"
+          applicationIdSuffix ".dev"
+          resValue "string", "app_name", "DocDoc Development"
+      }
+  }
+
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
@@ -51,6 +67,24 @@ android {
             signingConfig = signingConfigs.debug
         }
     }
+
+    // Add the dependencies block here:
+dependencies {
+    // Flutter dependencies
+    // implementation platform('com.google.firebase:firebase-bom:32.0.0') // or the version you need
+    // implementation 'com.google.firebase:firebase-analytics'
+    
+    // // Kotlin standard library (if needed)
+    // implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22" // make sure Kotlin version matches
+
+    // // Other dependencies you may need (example):
+    // implementation 'androidx.core:core-ktx:1.10.0'
+    // implementation 'com.google.android.material:material:1.9.0'
+        implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+        
+
+}
+
 }
 
 flutter {

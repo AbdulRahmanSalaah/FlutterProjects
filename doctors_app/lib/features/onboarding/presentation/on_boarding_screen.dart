@@ -16,15 +16,17 @@ class OnBoardingScreen extends StatelessWidget {
         child: SingleChildScrollView(
           child: Padding(
             padding: EdgeInsets.only(
-              top: 15.h,
+              top: 30.h,
             ),
             child: Column(
               children: [
                 const DocLogoAndName(),
-                SizedBox(height: 15.h),
+                SizedBox(height: 30.h),
                 const DoctorImageAndText(),
                 Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 30.w),
+                  padding: EdgeInsets.symmetric(
+                    horizontal: 30.w,
+                  ),
                   child: Column(
                     children: [
                       Text(
@@ -32,9 +34,9 @@ class OnBoardingScreen extends StatelessWidget {
                         textAlign: TextAlign.center,
                         style: TextStyles.font13GreyRegular,
                       ),
-                      SizedBox(height: 18.h),
+                      SizedBox(height: 30.h),
                       const GetStartedButton(),
-                      SizedBox(height: 5.h),
+                      SizedBox(height: 18.h),
                     ],
                   ),
                 )
